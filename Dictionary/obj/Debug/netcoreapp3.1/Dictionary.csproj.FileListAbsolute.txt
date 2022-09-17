@@ -1,0 +1,14 @@
+C:\Users\Dewry\source\repos\Data_Structure\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+C:\Users\Dewry\source\repos\Data_Structure\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+C:\Users\Dewry\source\repos\Data_Structure\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+C:\Users\Dewry\source\repos\Data_Structure\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+C:\Users\Dewry\source\repos\Data_Structure\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\Dewry\source\repos\Data_Structure\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\Dewry\source\repos\Data_Structure\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.AssemblyReference.cache
+C:\Users\Dewry\source\repos\Data_Structure\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dewry\source\repos\Data_Structure\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Dewry\source\repos\Data_Structure\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+C:\Users\Dewry\source\repos\Data_Structure\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Dewry\source\repos\Data_Structure\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\Dewry\source\repos\Data_Structure\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\Dewry\source\repos\Data_Structure\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache
