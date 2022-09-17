@@ -1,0 +1,14 @@
+C:\Users\Dewry\source\repos\Data_Structure\Queue\bin\Debug\netcoreapp3.1\Queue.exe
+C:\Users\Dewry\source\repos\Data_Structure\Queue\bin\Debug\netcoreapp3.1\Queue.deps.json
+C:\Users\Dewry\source\repos\Data_Structure\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.json
+C:\Users\Dewry\source\repos\Data_Structure\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.dev.json
+C:\Users\Dewry\source\repos\Data_Structure\Queue\bin\Debug\netcoreapp3.1\Queue.dll
+C:\Users\Dewry\source\repos\Data_Structure\Queue\bin\Debug\netcoreapp3.1\Queue.pdb
+C:\Users\Dewry\source\repos\Data_Structure\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.AssemblyReference.cache
+C:\Users\Dewry\source\repos\Data_Structure\Queue\obj\Debug\netcoreapp3.1\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dewry\source\repos\Data_Structure\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+C:\Users\Dewry\source\repos\Data_Structure\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfo.cs
+C:\Users\Dewry\source\repos\Data_Structure\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.CoreCompileInputs.cache
+C:\Users\Dewry\source\repos\Data_Structure\Queue\obj\Debug\netcoreapp3.1\Queue.dll
+C:\Users\Dewry\source\repos\Data_Structure\Queue\obj\Debug\netcoreapp3.1\Queue.pdb
+C:\Users\Dewry\source\repos\Data_Structure\Queue\obj\Debug\netcoreapp3.1\Queue.genruntimeconfig.cache
